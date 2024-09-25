@@ -1,0 +1,1 @@
+{ "name": "mtips5s_albumentation", "version": "1.0.0", "description": "chmod +x run.sh&./run.sh", "main": "index.js", "scripts": { "test": "echo \"Error: no test specified\" && exit 1" }, "author": "", "license": "ISC" }
